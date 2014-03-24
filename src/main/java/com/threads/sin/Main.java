@@ -5,7 +5,7 @@ import java.util.concurrent.*;
 /**
  * Created by Yuliia_Valchuk
  *
- * найоптимальніше рахувати суму при n = 8
+ * найоптимальніше рахувати суму при n = 2
  *
  * з ExecutorService программа працює швидше(де використовується Callable), ніж без
  *
